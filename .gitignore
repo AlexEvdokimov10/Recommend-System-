@@ -1,0 +1,7 @@
+/visualizations
+/models
+/templates
+venv/
+.venv
+anime.csv
+rating.csv

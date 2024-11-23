@@ -5,3 +5,5 @@ venv/
 .venv
 anime.csv
 rating.csv
+.idea
+__pycache__/
